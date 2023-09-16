@@ -5,4 +5,5 @@ An Interactive Jupyter Notebook where You can get two kind of recommendations fo
 
 The First objective is done by making use of TF-IDF Vectorization.
 A Process in which the most common words are ignores and the words which play more significance in the title of the movies are compared to get the desired result. It done by finding the cosine_similarity between the vectors of the input title and the titles in the list.
+
 https://github.com/Ayush-Swain/Movie-Recommender-System/assets/90006132/b2755382-6efd-4e71-b99d-6057f2bb602c
